@@ -1,0 +1,4 @@
+Level 1а. Приведите пример использования амортизированного анализа в практике.
+
+Amortized analysis is used in business. Here, an estimate given by amortized analysis is an estimate of an average cost for a worst case.
+I think it may be applied in sports. For example, in boxing: throwing many preparatory and distracting but weak punches and throwing a powerful knockout punch. We end up with a boxer who isn't exhausted and his strength intact.
